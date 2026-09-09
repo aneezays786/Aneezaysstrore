@@ -1,0 +1,13 @@
+ANEezay's GitHub Pages structure
+
+CUSTOMER STORE:
+Open the repository root URL. index.html is the customer store.
+
+OWNER PANEL:
+Open /admin/
+
+IMPORTANT:
+1. Upload ALL files and folders in this package to the ROOT of your GitHub repository.
+2. Do NOT upload the outer folder itself.
+3. Enable GitHub Pages from Settings > Pages > Deploy from branch > main > /(root).
+4. Supabase is not connected until you replace the placeholders in shared/supabase.js and run supabase/schema.sql.
